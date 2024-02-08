@@ -22,22 +22,22 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['918590565968','919446652312'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.owner = ['256708486009','263779694908'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
 global.pemilik = ['918590565968'] //another owner number
 global.premium = ['918590565968'] //premium number
-global.pengguna = 'prince' //username
-global.botnma = 'MD-prince' //bot name
-global.ownernma = 'prince ser' //owner name
-global.packname = 'MD-prince' //sticker package name
-global.author = 'By prince' //sticker author name
+global.pengguna = 'Hitman' //username
+global.botnma = 'Holy Hitman' //bot name
+global.ownernma = 'Hitmam Vibekiller', '𝕊𝕒𝕧𝕒𝕘𝕖 𝕤𝕠𝕦𝕝' //owner name
+global.packname = 'Vibekiller' //sticker package name
+global.author = 'Vbjx' //sticker author name
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['&'] //prefix
 global.sp = '⭔' //design
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner',
+    admin: 'This Feature Is Only For Admin, bitch!',
+    botAdmin: 'First tell your mom to make me admin!',
+    owner: 'This Feature Is Only For Owner, bitch!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
